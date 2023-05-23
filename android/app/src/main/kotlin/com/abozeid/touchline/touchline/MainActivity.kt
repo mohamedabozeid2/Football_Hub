@@ -1,4 +1,4 @@
-package com.abozeid.touchline.touchline
+package com.abozeid.footballhub
 
 import io.flutter.embedding.android.FlutterActivity
 
